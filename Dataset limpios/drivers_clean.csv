@@ -1,0 +1,151 @@
+driver_id,first_name,last_name,hire_date,termination_date,date_of_birth,home_terminal,employment_status,years_experience
+drv00001,jennifer,hernandez,2014-10-31,,1973-11-07,denver,active,3
+drv00002,william,martin,2020-10-02,,1976-11-03,columbus,active,20
+drv00003,charles,hernandez,2021-09-21,,1970-04-06,salt lake city,active,19
+drv00004,barbara,brown,2013-09-08,,1995-02-06,denver,active,19
+drv00005,mary,martinez,2018-12-02,,1960-07-15,chicago,active,12
+drv00006,robert,taylor,2019-04-04,,1990-05-02,portland,active,23
+drv00007,james,martinez,2019-07-02,2021-05-17,1974-05-23,miami,terminated,5
+drv00008,barbara,wilson,2020-06-09,2021-01-23,1978-12-28,philadelphia,terminated,15
+drv00009,karen,hernandez,2013-09-29,,1989-02-22,los angeles,active,13
+drv00010,sarah,gonzalez,2020-11-08,,1974-05-26,minneapolis,active,23
+drv00011,michael,martinez,2014-06-01,,1972-07-04,dallas,active,15
+drv00012,robert,moore,2013-09-12,,1994-04-21,nashville,active,25
+drv00013,jessica,jones,2015-11-21,,1969-05-27,philadelphia,active,3
+drv00014,richard,miller,2021-01-10,,1969-02-02,salt lake city,active,11
+drv00015,susan,wilson,2015-05-20,,1970-05-20,salt lake city,active,21
+drv00016,thomas,gonzalez,2017-04-09,,1978-08-04,kansas city,active,11
+drv00017,william,garcia,2021-08-24,,1989-12-10,atlanta,active,13
+drv00018,patricia,martin,2021-09-01,,1985-05-17,chicago,active,5
+drv00019,robert,jackson,2020-12-14,,1994-08-15,seattle,active,20
+drv00020,joseph,martinez,2019-07-21,,1965-10-02,houston,active,18
+drv00021,patricia,gonzalez,2019-05-25,2021-05-23,1987-12-11,new york,terminated,8
+drv00022,charles,moore,2016-05-03,,1976-01-03,memphis,active,6
+drv00023,david,smith,2015-04-03,,1974-11-27,philadelphia,active,23
+drv00024,barbara,martinez,2021-09-15,,1961-11-27,dallas,active,17
+drv00025,jessica,martinez,2015-09-17,,1977-10-02,omaha,active,9
+drv00026,charles,miller,2019-10-10,,1971-08-17,columbus,active,5
+drv00027,karen,wilson,2013-12-22,2015-03-16,1988-05-06,philadelphia,terminated,13
+drv00028,susan,jackson,2014-09-19,,1987-11-27,memphis,active,19
+drv00029,james,martin,2014-02-20,,1991-02-16,philadelphia,active,13
+drv00030,jessica,hernandez,2015-11-22,,1982-07-11,houston,active,5
+drv00031,charles,anderson,2017-04-19,2019-07-18,1980-11-04,seattle,terminated,10
+drv00032,michael,anderson,2019-07-14,,1970-06-14,omaha,active,20
+drv00033,william,anderson,2016-12-19,,1991-05-22,new york,active,9
+drv00034,thomas,miller,2015-05-25,,1985-09-02,kansas city,active,15
+drv00035,michael,taylor,2018-11-19,,1989-02-11,atlanta,active,19
+drv00036,michael,thomas,2012-12-04,,1976-06-04,miami,active,21
+drv00037,jessica,garcia,2012-04-03,,1985-09-27,new york,active,21
+drv00038,william,williams,2021-12-06,,1960-11-28,new york,active,23
+drv00039,thomas,martinez,2013-06-29,,1994-08-14,columbus,active,22
+drv00040,charles,taylor,2012-12-19,2014-05-14,1963-04-17,miami,terminated,19
+drv00041,karen,martin,2020-03-19,,1983-10-25,phoenix,active,2
+drv00042,richard,hernandez,2014-03-05,2015-09-07,1991-11-15,los angeles,terminated,21
+drv00043,mary,williams,2017-04-06,,1963-04-09,nashville,active,23
+drv00044,richard,davis,2018-03-10,,1995-03-10,atlanta,active,24
+drv00045,thomas,martinez,2018-11-20,,1988-12-16,new york,active,10
+drv00046,susan,davis,2020-04-05,2022-05-05,1967-01-21,atlanta,terminated,2
+drv00047,elizabeth,miller,2019-08-04,,1975-12-06,denver,active,7
+drv00048,thomas,jones,2013-06-10,2015-04-18,1979-09-01,houston,terminated,10
+drv00049,john,smith,2018-03-25,,1995-07-03,memphis,active,24
+drv00050,robert,johnson,2020-11-09,,1974-02-15,seattle,active,11
+drv00051,linda,davis,2020-12-18,,1967-11-27,atlanta,active,12
+drv00052,thomas,thomas,2017-09-28,2020-01-31,1969-08-23,phoenix,terminated,13
+drv00053,john,martin,2020-12-01,,1978-09-23,miami,active,2
+drv00054,james,williams,2017-12-23,,1977-07-27,chicago,active,7
+drv00055,mary,anderson,2012-07-01,,1990-08-08,new york,active,6
+drv00056,william,wilson,2018-02-23,,1989-09-05,oklahoma city,active,20
+drv00057,thomas,jackson,2015-03-27,,1984-04-20,las vegas,active,23
+drv00058,david,miller,2019-01-14,,1992-12-05,indianapolis,active,14
+drv00059,barbara,gonzalez,2012-12-14,,1964-05-25,los angeles,active,4
+drv00060,jessica,thomas,2021-07-08,,1986-06-26,oklahoma city,active,6
+drv00061,linda,gonzalez,2013-10-27,,1992-05-27,dallas,active,25
+drv00062,jessica,davis,2016-11-07,,1960-05-24,charlotte,active,22
+drv00063,james,jones,2015-12-28,,1979-10-19,minneapolis,active,2
+drv00064,michael,smith,2020-08-08,,1991-03-15,omaha,active,4
+drv00065,robert,brown,2017-10-04,,1994-08-12,denver,active,25
+drv00066,william,wilson,2021-02-13,,1981-09-25,indianapolis,active,18
+drv00067,jessica,davis,2015-10-24,2016-12-07,1994-07-15,memphis,terminated,8
+drv00068,john,garcia,2018-09-19,2019-04-08,1980-04-23,los angeles,terminated,14
+drv00069,patricia,taylor,2012-09-13,,1975-10-13,minneapolis,active,15
+drv00070,sarah,anderson,2014-12-15,,1974-07-02,indianapolis,active,16
+drv00071,jessica,johnson,2015-01-25,,1980-12-16,houston,active,12
+drv00072,william,moore,2012-01-28,2014-05-03,1984-07-22,kansas city,terminated,7
+drv00073,linda,davis,2012-05-04,2013-01-08,1969-08-02,chicago,terminated,13
+drv00074,william,brown,2017-12-12,,1968-09-19,oklahoma city,active,11
+drv00075,john,anderson,2015-07-13,,1981-02-28,nashville,active,25
+drv00076,charles,jones,2019-11-06,2021-01-02,1988-02-17,indianapolis,terminated,12
+drv00077,patricia,anderson,2014-02-07,,1989-01-24,detroit,active,20
+drv00078,john,taylor,2021-03-23,,1969-07-28,minneapolis,active,21
+drv00079,patricia,moore,2021-06-28,,1969-02-16,salt lake city,active,4
+drv00080,richard,martin,2014-08-03,,1976-06-20,atlanta,active,3
+drv00081,joseph,hernandez,2019-06-13,,1985-11-03,chicago,active,6
+drv00082,michael,anderson,2013-05-02,,1981-11-28,charlotte,active,7
+drv00083,patricia,martin,2018-10-04,,1994-07-11,portland,active,21
+drv00084,jessica,taylor,2021-02-09,,1991-09-02,las vegas,active,3
+drv00085,linda,wilson,2012-05-30,,1964-04-21,nashville,active,23
+drv00086,karen,moore,2019-05-24,2021-09-24,1978-04-24,los angeles,terminated,4
+drv00087,william,anderson,2012-04-14,,1965-07-04,charlotte,active,10
+drv00088,joseph,garcia,2020-11-14,,1966-08-06,milwaukee,active,16
+drv00089,david,thomas,2017-09-28,,1979-01-02,minneapolis,active,23
+drv00090,david,anderson,2018-11-20,,1980-01-10,dallas,active,15
+drv00091,linda,rodriguez,2016-12-01,,1982-06-14,dallas,active,17
+drv00092,james,davis,2014-11-16,,1969-04-17,seattle,active,21
+drv00093,david,rodriguez,2012-08-25,2014-04-09,1986-10-22,kansas city,terminated,16
+drv00094,mary,taylor,2017-11-29,,1971-03-06,new york,active,15
+drv00095,linda,thomas,2020-03-06,,1965-10-28,dallas,active,10
+drv00096,joseph,davis,2017-11-07,2018-11-18,1984-10-22,new york,terminated,8
+drv00097,thomas,rodriguez,2018-01-07,,1975-08-19,miami,active,18
+drv00098,david,anderson,2019-08-27,,1969-04-15,kansas city,active,5
+drv00099,michael,williams,2014-06-27,,1976-08-09,salt lake city,active,13
+drv00100,jennifer,martinez,2019-01-04,,1960-08-10,memphis,active,15
+drv00101,john,davis,2014-02-18,,1994-03-03,columbus,active,5
+drv00102,elizabeth,rodriguez,2014-05-04,,1988-06-19,milwaukee,active,11
+drv00103,joseph,hernandez,2014-09-26,,1979-11-14,seattle,active,23
+drv00104,richard,hernandez,2021-03-15,,1976-08-28,portland,active,23
+drv00105,barbara,moore,2015-03-04,,1979-04-13,kansas city,active,20
+drv00106,patricia,williams,2014-11-19,2016-11-21,1990-02-08,indianapolis,terminated,17
+drv00107,charles,jones,2020-02-01,,1984-10-12,detroit,active,18
+drv00108,joseph,jones,2016-01-06,,1978-12-10,minneapolis,active,23
+drv00109,joseph,davis,2013-10-29,,1961-11-13,indianapolis,active,11
+drv00110,james,gonzalez,2019-04-05,,1977-01-19,kansas city,active,3
+drv00111,richard,jones,2020-03-03,,1963-10-24,las vegas,active,9
+drv00112,jennifer,miller,2016-10-26,,1991-05-25,los angeles,active,14
+drv00113,mary,williams,2017-09-30,,1974-10-26,milwaukee,active,21
+drv00114,thomas,wilson,2018-12-23,,1982-04-21,los angeles,active,3
+drv00115,robert,wilson,2014-10-29,2016-05-19,1972-10-09,salt lake city,terminated,2
+drv00116,thomas,hernandez,2014-04-15,2015-11-15,1968-11-04,salt lake city,terminated,8
+drv00117,patricia,moore,2015-10-04,,1962-05-26,omaha,active,11
+drv00118,susan,anderson,2019-07-17,,1988-01-19,columbus,active,8
+drv00119,jennifer,wilson,2014-04-29,,1983-12-05,oklahoma city,active,6
+drv00120,jessica,johnson,2018-05-14,,1965-05-11,philadelphia,active,10
+drv00121,mary,miller,2012-07-20,,1986-03-07,las vegas,active,11
+drv00122,james,wilson,2013-05-21,,1968-09-12,minneapolis,active,12
+drv00123,michael,gonzalez,2013-04-20,,1993-09-09,houston,active,5
+drv00124,thomas,jackson,2021-05-17,,1970-05-27,las vegas,active,2
+drv00125,david,smith,2019-06-08,,1990-05-24,seattle,active,17
+drv00126,sarah,jackson,2012-10-14,,1981-02-15,minneapolis,active,25
+drv00127,thomas,gonzalez,2021-08-23,,1964-03-25,portland,active,15
+drv00128,john,thomas,2012-12-22,,1974-11-24,las vegas,active,7
+drv00129,michael,smith,2018-06-19,,1985-09-12,oklahoma city,active,6
+drv00130,karen,lopez,2017-07-03,,1965-07-01,los angeles,active,14
+drv00131,linda,martinez,2019-01-01,2021-02-17,1976-09-04,seattle,terminated,19
+drv00132,patricia,gonzalez,2021-04-05,,1989-06-22,las vegas,active,24
+drv00133,mary,wilson,2019-08-21,,1976-10-13,seattle,active,9
+drv00134,linda,moore,2015-08-23,,1983-02-22,nashville,active,18
+drv00135,karen,moore,2012-03-05,2014-02-03,1974-08-01,miami,terminated,19
+drv00136,susan,martin,2013-12-14,2014-12-19,1995-06-20,denver,terminated,23
+drv00137,michael,davis,2018-06-23,2019-02-27,1974-11-03,new york,terminated,13
+drv00138,jennifer,thomas,2019-08-15,,1989-12-10,nashville,active,4
+drv00139,sarah,davis,2014-08-27,,1986-02-05,charlotte,active,14
+drv00140,richard,rodriguez,2016-05-28,2018-06-30,1962-01-10,dallas,terminated,25
+drv00141,thomas,wilson,2017-07-26,,1991-02-04,dallas,active,3
+drv00142,john,thomas,2012-01-31,,1975-09-05,dallas,active,15
+drv00143,linda,smith,2014-10-17,,1984-08-12,dallas,active,2
+drv00144,james,gonzalez,2016-11-09,,1994-07-19,las vegas,active,16
+drv00145,susan,hernandez,2020-05-26,,1969-07-21,los angeles,active,4
+drv00146,jessica,gonzalez,2019-01-13,,1966-08-20,oklahoma city,active,12
+drv00147,richard,garcia,2020-06-09,,1986-05-02,oklahoma city,active,20
+drv00148,patricia,anderson,2019-03-28,,1983-04-15,denver,active,15
+drv00149,linda,jones,2013-08-25,,1988-04-28,new york,active,20
+drv00150,robert,martin,2015-09-16,,1983-02-22,columbus,active,14

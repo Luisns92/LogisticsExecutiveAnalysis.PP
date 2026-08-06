@@ -1,0 +1,181 @@
+trailer_id,trailer_number,trailer_type,length_feet,model_year,status
+trl00001,4290,refrigerated,53,2016,active
+trl00002,8848,dry van,53,2018,active
+trl00003,6147,dry van,53,2022,active
+trl00004,3910,dry van,53,2024,active
+trl00005,7524,dry van,53,2016,active
+trl00006,6228,refrigerated,53,2023,active
+trl00007,5775,dry van,53,2015,active
+trl00008,9044,refrigerated,53,2020,active
+trl00009,4971,dry van,53,2020,active
+trl00010,6339,refrigerated,53,2017,active
+trl00011,7161,dry van,53,2021,active
+trl00012,5592,refrigerated,53,2024,active
+trl00013,7437,refrigerated,53,2021,active
+trl00014,6980,dry van,53,2020,active
+trl00015,2865,dry van,53,2023,active
+trl00016,4273,refrigerated,53,2017,active
+trl00017,9939,refrigerated,53,2022,active
+trl00018,3947,dry van,53,2016,active
+trl00019,1440,refrigerated,53,2015,active
+trl00020,8563,dry van,53,2024,active
+trl00021,4434,refrigerated,53,2016,active
+trl00022,8183,dry van,53,2015,active
+trl00023,5773,dry van,53,2019,active
+trl00024,2133,refrigerated,53,2018,active
+trl00025,7703,dry van,53,2015,active
+trl00026,9180,refrigerated,53,2015,active
+trl00027,3280,refrigerated,53,2021,active
+trl00028,5961,refrigerated,53,2023,active
+trl00029,4965,dry van,53,2019,active
+trl00030,5139,refrigerated,53,2023,active
+trl00031,3525,dry van,53,2021,active
+trl00032,7932,dry van,53,2021,active
+trl00033,7176,dry van,53,2021,active
+trl00034,2211,refrigerated,53,2016,active
+trl00035,8357,refrigerated,53,2023,active
+trl00036,8851,dry van,53,2023,active
+trl00037,7566,dry van,53,2024,active
+trl00038,9755,dry van,53,2017,active
+trl00039,9300,dry van,53,2019,active
+trl00040,7853,dry van,53,2016,active
+trl00041,9907,refrigerated,53,2019,active
+trl00042,1602,refrigerated,53,2016,active
+trl00043,6890,dry van,53,2023,active
+trl00044,9796,refrigerated,53,2018,active
+trl00045,2392,refrigerated,53,2017,active
+trl00046,2791,refrigerated,53,2023,active
+trl00047,5067,refrigerated,53,2020,active
+trl00048,6816,dry van,53,2021,active
+trl00049,3725,dry van,53,2024,active
+trl00050,1725,refrigerated,53,2016,active
+trl00051,7547,dry van,53,2019,active
+trl00052,6432,refrigerated,53,2021,active
+trl00053,8052,dry van,53,2018,active
+trl00054,2735,dry van,53,2015,active
+trl00055,1172,dry van,53,2018,active
+trl00056,2615,dry van,53,2016,active
+trl00057,5239,refrigerated,53,2021,active
+trl00058,4637,dry van,53,2016,active
+trl00059,9366,refrigerated,53,2022,active
+trl00060,9499,refrigerated,53,2024,active
+trl00061,4621,dry van,53,2024,active
+trl00062,8303,refrigerated,53,2015,active
+trl00063,7129,refrigerated,53,2019,active
+trl00064,7408,refrigerated,53,2017,active
+trl00065,8586,refrigerated,53,2016,active
+trl00066,9199,dry van,53,2015,active
+trl00067,3469,dry van,53,2017,active
+trl00068,6651,refrigerated,53,2015,active
+trl00069,1402,refrigerated,53,2017,active
+trl00070,8909,refrigerated,53,2022,active
+trl00071,2712,refrigerated,53,2020,active
+trl00072,5840,refrigerated,53,2023,active
+trl00073,7815,refrigerated,53,2023,active
+trl00074,2406,dry van,53,2019,active
+trl00075,2901,dry van,53,2017,active
+trl00076,3321,refrigerated,53,2020,active
+trl00077,6707,refrigerated,53,2017,active
+trl00078,6110,dry van,53,2019,active
+trl00079,6620,refrigerated,53,2016,active
+trl00080,8460,dry van,53,2015,active
+trl00081,4389,refrigerated,53,2020,active
+trl00082,9537,dry van,53,2021,active
+trl00083,8912,refrigerated,53,2019,active
+trl00084,6706,refrigerated,53,2023,active
+trl00085,8801,refrigerated,53,2016,active
+trl00086,2599,refrigerated,53,2019,active
+trl00087,8178,refrigerated,53,2024,active
+trl00088,8412,dry van,53,2016,active
+trl00089,6225,refrigerated,53,2022,active
+trl00090,2100,refrigerated,53,2022,active
+trl00091,5919,dry van,53,2023,active
+trl00092,1732,dry van,53,2020,active
+trl00093,2885,dry van,53,2015,active
+trl00094,1370,refrigerated,53,2022,active
+trl00095,6620,dry van,53,2024,active
+trl00096,2791,dry van,53,2017,active
+trl00097,3692,dry van,53,2020,active
+trl00098,4996,refrigerated,53,2017,active
+trl00099,9454,refrigerated,53,2019,active
+trl00100,3858,dry van,53,2016,active
+trl00101,3623,refrigerated,53,2024,active
+trl00102,6422,dry van,53,2016,active
+trl00103,7985,dry van,53,2018,active
+trl00104,8570,refrigerated,53,2023,active
+trl00105,4798,dry van,53,2015,active
+trl00106,7636,refrigerated,53,2015,active
+trl00107,4022,dry van,53,2015,active
+trl00108,4053,refrigerated,53,2018,active
+trl00109,8080,refrigerated,53,2015,active
+trl00110,7481,dry van,53,2022,active
+trl00111,1478,refrigerated,53,2020,active
+trl00112,4232,dry van,53,2021,active
+trl00113,8365,dry van,53,2017,active
+trl00114,8037,refrigerated,53,2017,active
+trl00115,7370,refrigerated,53,2015,active
+trl00116,1072,dry van,53,2023,active
+trl00117,4519,refrigerated,53,2021,active
+trl00118,4371,dry van,53,2018,active
+trl00119,5560,dry van,53,2020,active
+trl00120,2025,dry van,53,2018,active
+trl00121,2667,dry van,53,2021,active
+trl00122,9796,refrigerated,53,2020,active
+trl00123,4063,dry van,53,2019,active
+trl00124,6993,dry van,53,2016,active
+trl00125,6340,dry van,53,2024,active
+trl00126,4228,refrigerated,53,2020,active
+trl00127,8496,dry van,53,2016,active
+trl00128,2867,dry van,53,2023,active
+trl00129,5298,refrigerated,53,2015,active
+trl00130,9019,dry van,53,2017,active
+trl00131,9646,refrigerated,53,2018,active
+trl00132,6134,dry van,53,2023,active
+trl00133,7367,refrigerated,53,2015,active
+trl00134,7431,dry van,53,2021,active
+trl00135,2871,dry van,53,2016,active
+trl00136,6700,refrigerated,53,2022,active
+trl00137,6766,dry van,53,2019,active
+trl00138,8501,dry van,53,2019,active
+trl00139,3826,dry van,53,2020,active
+trl00140,5873,refrigerated,53,2016,active
+trl00141,2388,refrigerated,53,2023,active
+trl00142,3194,refrigerated,53,2022,active
+trl00143,6131,dry van,53,2015,active
+trl00144,2931,refrigerated,53,2020,active
+trl00145,4908,dry van,53,2018,active
+trl00146,6003,dry van,53,2019,active
+trl00147,2916,dry van,53,2024,active
+trl00148,3999,dry van,53,2019,active
+trl00149,7116,dry van,53,2024,active
+trl00150,3316,refrigerated,53,2018,active
+trl00151,9369,refrigerated,53,2022,active
+trl00152,7364,dry van,53,2020,active
+trl00153,7852,dry van,53,2024,active
+trl00154,3258,refrigerated,53,2022,active
+trl00155,7286,refrigerated,53,2018,active
+trl00156,7931,dry van,53,2023,active
+trl00157,4043,dry van,53,2018,active
+trl00158,8973,dry van,53,2017,active
+trl00159,9804,dry van,53,2015,active
+trl00160,3838,dry van,53,2021,active
+trl00161,3733,refrigerated,53,2015,active
+trl00162,9022,refrigerated,53,2018,active
+trl00163,5732,refrigerated,53,2023,active
+trl00164,3298,refrigerated,53,2020,active
+trl00165,4065,dry van,53,2015,active
+trl00166,6154,dry van,53,2020,active
+trl00167,8389,refrigerated,53,2015,active
+trl00168,1878,dry van,53,2021,active
+trl00169,6882,dry van,53,2019,active
+trl00170,1157,refrigerated,53,2016,active
+trl00171,8939,dry van,53,2018,active
+trl00172,3236,refrigerated,53,2023,active
+trl00173,4196,dry van,53,2018,active
+trl00174,7290,dry van,53,2021,active
+trl00175,9281,refrigerated,53,2022,active
+trl00176,9109,refrigerated,53,2015,active
+trl00177,7703,dry van,53,2017,active
+trl00178,9056,dry van,53,2019,active
+trl00179,7809,refrigerated,53,2016,active
+trl00180,8272,refrigerated,53,2015,active

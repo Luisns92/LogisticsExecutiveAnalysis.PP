@@ -1,0 +1,59 @@
+route_id,origin_city,origin_state,destination_city,destination_state,typical_distance_miles,base_rate_per_mile,fuel_surcharge_rate,typical_transit_days
+rte00001,atlanta,ga,chicago,il,677,1.7,0.19,1
+rte00002,atlanta,ga,miami,fl,697,2.08,0.22,1
+rte00003,chicago,il,los angeles,ca,2003,2.55,0.29,3
+rte00004,chicago,il,portland,or,2017,1.84,0.19,3
+rte00005,chicago,il,las vegas,nv,1749,2.41,0.26,3
+rte00006,chicago,il,charlotte,nc,675,2.13,0.28,1
+rte00007,dallas,tx,new york,ny,1576,2.54,0.32,2
+rte00008,dallas,tx,denver,co,762,2.62,0.15,1
+rte00009,dallas,tx,indianapolis,in,878,1.95,0.17,1
+rte00010,new york,ny,philadelphia,pa,92,1.61,0.17,1
+rte00011,new york,ny,columbus,oh,547,1.69,0.24,1
+rte00012,phoenix,az,philadelphia,pa,2389,2.71,0.19,4
+rte00013,phoenix,az,denver,co,673,1.7,0.21,1
+rte00014,phoenix,az,kansas city,mo,1204,2.14,0.19,2
+rte00015,philadelphia,pa,new york,ny,92,2.79,0.15,1
+rte00016,philadelphia,pa,seattle,wa,2729,2.5,0.17,4
+rte00017,philadelphia,pa,minneapolis,mn,1130,1.81,0.34,1
+rte00018,philadelphia,pa,indianapolis,in,670,2.07,0.28,1
+rte00019,houston,tx,detroit,mi,1271,2.33,0.32,2
+rte00020,houston,tx,seattle,wa,2172,1.77,0.34,3
+rte00021,houston,tx,portland,or,2108,2.45,0.28,3
+rte00022,houston,tx,memphis,tn,557,1.95,0.29,1
+rte00023,miami,fl,dallas,tx,1276,2.33,0.17,2
+rte00024,miami,fl,philadelphia,pa,1175,2.48,0.32,2
+rte00025,miami,fl,seattle,wa,3141,1.65,0.18,5
+rte00026,miami,fl,denver,co,1984,1.72,0.28,3
+rte00027,detroit,mi,houston,tx,1271,2.02,0.33,2
+rte00028,seattle,wa,houston,tx,2172,1.89,0.26,3
+rte00029,seattle,wa,charlotte,nc,2623,2.47,0.34,4
+rte00030,seattle,wa,indianapolis,in,2147,2.48,0.33,3
+rte00031,denver,co,kansas city,mo,640,2.19,0.29,1
+rte00032,portland,or,detroit,mi,2259,1.99,0.2,3
+rte00033,portland,or,seattle,wa,167,2.42,0.24,1
+rte00034,portland,or,columbus,oh,2332,2.12,0.34,4
+rte00035,las vegas,nv,dallas,tx,1229,1.69,0.28,2
+rte00036,las vegas,nv,los angeles,ca,262,2.63,0.33,1
+rte00037,las vegas,nv,new york,ny,2561,1.52,0.21,4
+rte00038,las vegas,nv,kansas city,mo,1311,2.71,0.24,2
+rte00039,minneapolis,mn,atlanta,ga,1044,2.08,0.33,1
+rte00040,minneapolis,mn,los angeles,ca,1749,2.38,0.3,3
+rte00041,minneapolis,mn,houston,tx,1216,2.75,0.21,2
+rte00042,charlotte,nc,seattle,wa,2623,2.39,0.18,4
+rte00043,charlotte,nc,denver,co,1559,1.55,0.16,2
+rte00044,charlotte,nc,portland,or,2627,2.69,0.31,4
+rte00045,charlotte,nc,memphis,tn,597,2.33,0.23,1
+rte00046,columbus,oh,los angeles,ca,2269,2.74,0.22,3
+rte00047,columbus,oh,philadelphia,pa,476,2.06,0.16,1
+rte00048,columbus,oh,portland,or,2332,2.69,0.34,4
+rte00049,columbus,oh,minneapolis,mn,720,2.62,0.2,1
+rte00050,columbus,oh,kansas city,mo,712,1.94,0.24,1
+rte00051,memphis,tn,los angeles,ca,1840,1.85,0.25,3
+rte00052,memphis,tn,minneapolis,mn,804,1.63,0.34,1
+rte00053,kansas city,mo,atlanta,ga,777,2.35,0.27,1
+rte00054,kansas city,mo,los angeles,ca,1557,2.01,0.19,2
+rte00055,kansas city,mo,miami,fl,1429,2.51,0.25,2
+rte00056,kansas city,mo,portland,or,1718,2.47,0.18,2
+rte00057,kansas city,mo,charlotte,nc,921,2.45,0.3,1
+rte00058,kansas city,mo,indianapolis,in,519,2.27,0.19,1

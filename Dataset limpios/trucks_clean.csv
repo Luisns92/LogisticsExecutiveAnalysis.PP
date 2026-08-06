@@ -1,0 +1,121 @@
+truck_id,unit_number,make,model_year,fuel_type,tank_capacity_gallons,status,home_terminal
+trk00001,3463,peterbilt,2016,diesel,200,active,omaha
+trk00002,6461,kenworth,2015,diesel,150,active,seattle
+trk00003,2335,peterbilt,2018,diesel,150,maintenance,atlanta
+trk00004,3317,freightliner,2015,diesel,200,active,salt lake city
+trk00005,6731,freightliner,2016,diesel,250,maintenance,miami
+trk00006,6082,kenworth,2017,diesel,150,active,minneapolis
+trk00007,7421,volvo,2019,diesel,200,active,charlotte
+trk00008,3112,mack,2015,diesel,150,active,houston
+trk00009,2388,international,2015,diesel,250,active,denver
+trk00010,6072,volvo,2015,diesel,200,active,columbus
+trk00011,7171,freightliner,2015,diesel,200,active,portland
+trk00012,6381,freightliner,2015,diesel,250,active,las vegas
+trk00013,3093,volvo,2018,diesel,250,active,phoenix
+trk00014,9624,international,2015,diesel,150,active,nashville
+trk00015,2531,international,2015,diesel,200,active,memphis
+trk00016,7937,freightliner,2015,diesel,150,active,nashville
+trk00017,9331,mack,2017,diesel,200,maintenance,portland
+trk00018,6928,international,2015,diesel,150,active,dallas
+trk00019,1298,international,2015,diesel,200,active,omaha
+trk00020,6940,kenworth,2015,diesel,250,active,kansas city
+trk00021,6060,mack,2018,diesel,150,inactive,detroit
+trk00022,3953,kenworth,2017,diesel,200,inactive,houston
+trk00023,4509,peterbilt,2015,diesel,200,active,milwaukee
+trk00024,6598,volvo,2015,diesel,150,active,dallas
+trk00025,8967,freightliner,2018,diesel,250,active,dallas
+trk00026,4145,international,2021,diesel,250,active,miami
+trk00027,4711,peterbilt,2015,diesel,150,maintenance,new york
+trk00028,3253,kenworth,2015,diesel,150,maintenance,portland
+trk00029,3538,international,2016,diesel,200,active,milwaukee
+trk00030,2264,volvo,2015,diesel,200,active,salt lake city
+trk00031,5846,kenworth,2018,diesel,250,active,new york
+trk00032,2657,mack,2015,diesel,250,maintenance,oklahoma city
+trk00033,9317,mack,2015,diesel,250,active,portland
+trk00034,9843,freightliner,2015,diesel,150,maintenance,seattle
+trk00035,9626,international,2015,diesel,150,active,denver
+trk00036,1618,peterbilt,2020,diesel,150,active,los angeles
+trk00037,6517,freightliner,2018,diesel,250,maintenance,dallas
+trk00038,3147,international,2015,diesel,250,active,atlanta
+trk00039,7172,international,2015,diesel,250,active,detroit
+trk00040,3527,international,2015,diesel,250,active,minneapolis
+trk00041,3658,international,2015,diesel,150,active,denver
+trk00042,3962,international,2019,diesel,200,maintenance,omaha
+trk00043,3712,freightliner,2019,diesel,150,active,miami
+trk00044,8170,volvo,2015,diesel,200,active,los angeles
+trk00045,1715,volvo,2015,diesel,200,active,new york
+trk00046,7731,freightliner,2015,diesel,150,inactive,dallas
+trk00047,6968,mack,2015,diesel,150,maintenance,phoenix
+trk00048,4891,volvo,2015,diesel,150,active,las vegas
+trk00049,8277,peterbilt,2015,diesel,250,active,minneapolis
+trk00050,5668,peterbilt,2015,diesel,150,active,columbus
+trk00051,8355,mack,2016,diesel,250,active,columbus
+trk00052,4833,freightliner,2015,diesel,200,active,indianapolis
+trk00053,9749,peterbilt,2015,diesel,150,active,las vegas
+trk00054,4918,freightliner,2016,diesel,250,active,los angeles
+trk00055,6070,peterbilt,2017,diesel,250,active,atlanta
+trk00056,8684,kenworth,2015,diesel,250,inactive,dallas
+trk00057,4178,mack,2015,diesel,150,active,denver
+trk00058,7026,mack,2015,diesel,200,active,columbus
+trk00059,8218,mack,2015,diesel,150,active,dallas
+trk00060,8564,freightliner,2015,diesel,250,active,kansas city
+trk00061,5616,international,2018,diesel,200,active,kansas city
+trk00062,7256,mack,2017,diesel,200,active,seattle
+trk00063,9239,peterbilt,2015,diesel,200,active,portland
+trk00064,9641,kenworth,2020,diesel,200,active,atlanta
+trk00065,7859,freightliner,2015,diesel,250,active,detroit
+trk00066,3655,peterbilt,2015,diesel,250,maintenance,las vegas
+trk00067,4271,international,2015,diesel,200,active,portland
+trk00068,3267,peterbilt,2020,diesel,200,active,omaha
+trk00069,5096,mack,2016,diesel,200,active,dallas
+trk00070,1854,kenworth,2015,diesel,200,active,oklahoma city
+trk00071,8873,mack,2017,diesel,250,active,columbus
+trk00072,7081,volvo,2017,diesel,200,active,houston
+trk00073,2680,mack,2016,diesel,200,active,memphis
+trk00074,9452,volvo,2015,diesel,150,active,indianapolis
+trk00075,3042,mack,2015,diesel,250,inactive,phoenix
+trk00076,5670,kenworth,2015,diesel,200,active,nashville
+trk00077,2374,kenworth,2015,diesel,200,maintenance,portland
+trk00078,3626,freightliner,2015,diesel,150,active,phoenix
+trk00079,5469,mack,2015,diesel,200,active,new york
+trk00080,8361,volvo,2015,diesel,200,active,miami
+trk00081,9410,freightliner,2018,diesel,200,inactive,detroit
+trk00082,3414,peterbilt,2015,diesel,150,active,miami
+trk00083,8167,kenworth,2015,diesel,250,active,charlotte
+trk00084,2502,freightliner,2015,diesel,150,active,new york
+trk00085,4637,kenworth,2015,diesel,250,active,dallas
+trk00086,8391,freightliner,2015,diesel,150,active,phoenix
+trk00087,6727,peterbilt,2015,diesel,150,maintenance,las vegas
+trk00088,1436,peterbilt,2015,diesel,200,inactive,miami
+trk00089,7797,international,2019,diesel,250,active,las vegas
+trk00090,1872,volvo,2017,diesel,250,active,detroit
+trk00091,7495,international,2015,diesel,250,active,charlotte
+trk00092,9224,volvo,2015,diesel,250,active,dallas
+trk00093,7126,peterbilt,2015,diesel,200,active,denver
+trk00094,4862,freightliner,2015,diesel,200,inactive,miami
+trk00095,7326,mack,2015,diesel,150,active,houston
+trk00096,2337,kenworth,2018,diesel,150,active,oklahoma city
+trk00097,7142,peterbilt,2016,diesel,200,active,salt lake city
+trk00098,4678,peterbilt,2018,diesel,150,active,charlotte
+trk00099,1461,freightliner,2015,diesel,200,active,kansas city
+trk00100,6221,mack,2015,diesel,250,inactive,kansas city
+trk00101,2623,peterbilt,2015,diesel,150,active,philadelphia
+trk00102,6493,peterbilt,2015,diesel,200,inactive,minneapolis
+trk00103,3392,freightliner,2015,diesel,250,active,los angeles
+trk00104,3254,peterbilt,2018,diesel,250,maintenance,new york
+trk00105,1627,volvo,2015,diesel,250,active,detroit
+trk00106,5700,volvo,2017,diesel,200,active,atlanta
+trk00107,8740,mack,2017,diesel,200,active,portland
+trk00108,3273,volvo,2015,diesel,200,active,seattle
+trk00109,8685,volvo,2015,diesel,250,maintenance,kansas city
+trk00110,8349,peterbilt,2016,diesel,250,active,portland
+trk00111,1086,kenworth,2015,diesel,250,active,seattle
+trk00112,2298,volvo,2016,diesel,200,active,minneapolis
+trk00113,1311,mack,2015,diesel,200,active,seattle
+trk00114,5193,volvo,2016,diesel,150,active,las vegas
+trk00115,4533,peterbilt,2015,diesel,250,active,salt lake city
+trk00116,3449,international,2019,diesel,200,active,kansas city
+trk00117,9991,peterbilt,2015,diesel,150,inactive,new york
+trk00118,9647,freightliner,2015,diesel,150,inactive,detroit
+trk00119,7934,mack,2015,diesel,250,inactive,seattle
+trk00120,2821,volvo,2017,diesel,250,active,kansas city

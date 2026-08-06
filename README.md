@@ -34,7 +34,7 @@ Power BI | DAX | Power Query | Python | Pandas | Star Schema | Excel
 . 
 . 
 ### 🎥 Dashboard Demo
-
+![Dashboard Demo](Multimedia/dashboard_demo.gif)
 
 ### 📈 Insights de Negocio
 

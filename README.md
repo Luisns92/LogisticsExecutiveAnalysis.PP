@@ -1,7 +1,18 @@
-# Logistics Executive Análisis, Data Analysis
+# Logistics Executive Analysis
+### Business Intelligence & Data Analytics Project
 
+## 🛠️ Tecnologías
+
+- Power BI
+- DAX
+- Power Query
+- Python
+- Pandas
+- Star Schema
+- Excel
+  
 📖 Resúmen:  
- Este proyecto desarrolla una solución de Business Intelligence para analizar el desempeño operativo y financiero de una empresa de logística. A partir de datos históricos de los años 2022, 2023 y 2024, se realizó un proceso completo de limpieza, transformación y modelado de datos para construir un dashboard ejecutivo en Power BI que facilita el análisis de ingresos y el seguimiento de indicadores clave del negocio.
+ Este proyecto presenta una solución de Business Intelligence para analizar el desempeño operativo y financiero de una empresa de logística. A partir de datos históricos correspondientes a los años 2022, 2023 y 2024, se realizó un proceso completo de limpieza, transformación y modelado de datos para desarrollar un dashboard ejecutivo en Power BI que facilita el análisis de ingresos y el seguimiento de indicadores clave del negocio.
 
 .  
 .  
@@ -25,13 +36,29 @@
   7. Diseño y construcción de un dashboard ejecutivo en Power BI con visualizaciones interactivas.
   8. Análisis de resultados para identificar tendencias, clientes, conductores y rutas con mayor generación de ingresos.
 
-📈 Insights de Negocio: 
- Durante el análisis se identificaron diversos patrones relevantes que pueden apoyar la toma de decisiones estratégicas:
- - Se detectó un comportamiento estacional en las ventas, observándose una disminución recurrente de los ingresos durante el mes de febrero en los tres años analizados (2022–2024).
- - A pesar de que los ingresos presentaron variaciones entre años, los costos operativos mostraron una reducción progresiva, lo que permitió incrementar el margen de utilidad de la empresa.
- - Se identificó que un número reducido de rutas concentra una parte importante de los ingresos totales, permitiendo reconocer las rutas con mayor impacto en la rentabilidad.
- - Se determinaron los clientes con mayor contribución a los ingresos, facilitando la identificación de cuentas estratégicas para fortalecer la relación comercial.
+## 📊 KPIs Analizados
+
+- Total de ingresos
+- Total de costos
+- Utilidad
+- Margen de utilidad
+- Clientes con mayores ingresos
+- Rutas con mayores ingresos
+- Evolución mensual de ingresos
+- Tendencia anual
+
+## 📈 Insights de Negocio
+
+Durante el análisis se identificaron diversos patrones relevantes:
+
+- Se observó un comportamiento estacional en las ventas, con una disminución recurrente de los ingresos durante el mes de febrero en los tres años analizados.
+
+- Los costos operativos disminuyeron progresivamente entre 2022 y 2024, lo que contribuyó a un incremento sostenido del margen de utilidad.
+
+- Un número reducido de rutas concentró una proporción significativa de los ingresos totales, evidenciando oportunidades para priorizar inversiones y recursos.
+
+- Se identificaron los clientes con mayor contribución a los ingresos, permitiendo reconocer cuentas estratégicas para fortalecer la relación comercial.
 
 📊 Conclusiones:  
- Se desarrolló una solución de BI que centraliza la información operativa en un dashboard interactivo, permitiendo identificar los principales generadores de ingresos de la empresa entre 2022 y 2024. La herramienta facilita el seguimiento del desempeño mediante KPIs, filtros dinámicos y visualizaciones intuitivas, proporcionando información valiosa para apoyar la toma de decisiones estratégicas y detectar oportunidades de optimización en las operaciones logísticas.
+ El proyecto permitió transformar datos operativos en información estratégica mediante un dashboard ejecutivo interactivo. La solución facilita el monitoreo del desempeño financiero y operativo, permitiendo identificar oportunidades para optimizar la rentabilidad, priorizar clientes estratégicos y mejorar la toma de decisiones basada en datos.
 

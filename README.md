@@ -30,16 +30,11 @@ Power BI | DAX | Power Query | Python | Pandas | Star Schema | Excel
   7. Diseño y construcción de un dashboard ejecutivo en Power BI con visualizaciones interactivas.
   8. Análisis de resultados para identificar tendencias, clientes, conductores y rutas con mayor generación de ingresos.
 
-### 📊 KPIs Analizados
+.
+.
+.
+## 🎥 Dashboard Demo
 
-- Total de ingresos
-- Total de costos
-- Utilidad
-- Margen de utilidad
-- Clientes con mayores ingresos
-- Rutas con mayores ingresos
-- Evolución mensual de ingresos
-- Tendencia anual
 
 ## 📈 Insights de Negocio
 

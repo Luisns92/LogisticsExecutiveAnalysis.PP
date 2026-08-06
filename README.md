@@ -3,13 +3,7 @@
 
 ## 🛠️ Tecnologías
 
-- Power BI
-- DAX
-- Power Query
-- Python
-- Pandas
-- Star Schema
-- Excel
+Power BI | DAX | Power Query | Python | Pandas | Star Schema | Excel
   
 📖 Resúmen:  
  Este proyecto presenta una solución de Business Intelligence para analizar el desempeño operativo y financiero de una empresa de logística. A partir de datos históricos correspondientes a los años 2022, 2023 y 2024, se realizó un proceso completo de limpieza, transformación y modelado de datos para desarrollar un dashboard ejecutivo en Power BI que facilita el análisis de ingresos y el seguimiento de indicadores clave del negocio.

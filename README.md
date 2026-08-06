@@ -30,9 +30,9 @@ Power BI | DAX | Power Query | Python | Pandas | Star Schema | Excel
   7. Diseño y construcción de un dashboard ejecutivo en Power BI con visualizaciones interactivas.
   8. Análisis de resultados para identificar tendencias, clientes, conductores y rutas con mayor generación de ingresos.
 
-.
-.
-.
+. 
+. 
+. 
 ### 🎥 Dashboard Demo
 
 

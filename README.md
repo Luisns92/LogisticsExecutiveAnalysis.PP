@@ -25,6 +25,13 @@
   7. Diseño y construcción de un dashboard ejecutivo en Power BI con visualizaciones interactivas.
   8. Análisis de resultados para identificar tendencias, clientes, conductores y rutas con mayor generación de ingresos.
 
+📈 Insights de Negocio: 
+ Durante el análisis se identificaron diversos patrones relevantes que pueden apoyar la toma de decisiones estratégicas:
+ - Se detectó un comportamiento estacional en las ventas, observándose una disminución recurrente de los ingresos durante el mes de febrero en los tres años analizados (2022–2024).
+ - A pesar de que los ingresos presentaron variaciones entre años, los costos operativos mostraron una reducción progresiva, lo que permitió incrementar el margen de utilidad de la empresa.
+ - Se identificó que un número reducido de rutas concentra una parte importante de los ingresos totales, permitiendo reconocer las rutas con mayor impacto en la rentabilidad.
+ - Se determinaron los clientes con mayor contribución a los ingresos, facilitando la identificación de cuentas estratégicas para fortalecer la relación comercial.
 
 📊 Conclusiones:  
- Se desarrolló una solución de Business Intelligence que centraliza la información operativa en un dashboard interactivo, permitiendo identificar los principales generadores de ingresos de la empresa entre 2022 y 2024. La herramienta facilita el seguimiento del desempeño mediante KPIs, filtros dinámicos y visualizaciones intuitivas, proporcionando información valiosa para apoyar la toma de decisiones estratégicas y detectar oportunidades de optimización en las operaciones logísticas.
+ Se desarrolló una solución de BI que centraliza la información operativa en un dashboard interactivo, permitiendo identificar los principales generadores de ingresos de la empresa entre 2022 y 2024. La herramienta facilita el seguimiento del desempeño mediante KPIs, filtros dinámicos y visualizaciones intuitivas, proporcionando información valiosa para apoyar la toma de decisiones estratégicas y detectar oportunidades de optimización en las operaciones logísticas.
+

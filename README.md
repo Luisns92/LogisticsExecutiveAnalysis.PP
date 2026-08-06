@@ -33,10 +33,10 @@ Power BI | DAX | Power Query | Python | Pandas | Star Schema | Excel
 .
 .
 .
-## 🎥 Dashboard Demo
+### 🎥 Dashboard Demo
 
 
-## 📈 Insights de Negocio
+### 📈 Insights de Negocio
 
 Durante el análisis se identificaron diversos patrones relevantes:
 
